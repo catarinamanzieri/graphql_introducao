@@ -35,7 +35,7 @@ const resolvers = {
             return true
         },
         salario(){
-        
+            return 1000
         }
     }
 }
